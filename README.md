@@ -13,7 +13,7 @@
     - Parameters: Sex, age, major bleeding history, kidney function, antiplatelet treatment
 
 ### Aim:
-Develop a risk prediction tool with superior predictive performance compared to current validated methods. The tool should utilize predictors that can be easily accessed in a standard clinical setting.
+Develop a risk prediction tool with superior predictive performance compared to ORBIT-AF. The tool should utilize predictors that can be easily accessed in a standard clinical setting.
 
 ### Study Population:
 - **Source:** UK Biobank

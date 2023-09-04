@@ -1,12 +1,16 @@
 # Major Bleeding Risk Prediction Tool
 
-## Introduction / Background
+## Introduction
 
-### Motivation:
+### Background:
 - **Definition:** Major bleeding refers to bleeding into critical areas or organs like the stomach, brain, or joints.
 - **Case-fatality:** 13.4%
 - Anticoagulants, commonly known as "blood thinners", significantly increase the risk of major bleeding.
-- There are existing risk scores for determining the risk of major bleeding when on anticoagulants.
+- Validated Clinical Scoring Systems: Existing tools for determining the risk of major bleeding when on anticoagulants.
+  - HAS-BLED
+  - VTE-BLEED
+  - ORBIT-AF: Current recommendation in the UK and other regions to guide AF anticoagulation.
+    - Parameters: Sex, age, major bleeding history, kidney function, antiplatelet treatment
 
 ### Aim:
 Develop a risk prediction tool with superior predictive performance compared to current validated methods. The tool should utilize predictors that can be easily accessed in a standard clinical setting.
@@ -16,15 +20,6 @@ Develop a risk prediction tool with superior predictive performance compared to 
 - **About:** An extensive, ongoing prospective cohort study encompassing demographic, lifestyle, medical, and genetic information.
 - **Participants:** Around 500,000 participants between the ages of 40 and 69.
 - **Publications:** Over 6,000 research papers have been based on the UK Biobank data.
-
-### Validated Clinical Scoring Systems:
-- HAS-BLED
-- VTE-BLEED
-- ORBIT-AF (Current recommendation in the UK and other regions to guide AF anticoagulation)
-
-> **ORBIT-AF Scoring Range:** 0 – 6
->
-> **Parameters:** Sex, age, major bleeding history, kidney function, antiplatelet treatment
 
 ## Methods
 

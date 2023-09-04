@@ -6,7 +6,7 @@
 - **Definition:** Major bleeding refers to bleeding into critical areas or organs like the stomach, brain, or joints.
 - **Case-fatality:** 13.4%
 - Anticoagulants, commonly known as "blood thinners", significantly increase the risk of major bleeding.
-- Validated Clinical Scoring Systems: Existing tools for determining the risk of major bleeding when on anticoagulants.
+- Validated Clinical Scoring Systems: Tools for determining the risk of major bleeding when on anticoagulants.
   - HAS-BLED
   - VTE-BLEED
   - ORBIT-AF: Current recommendation in the UK and other regions to guide AF anticoagulation.

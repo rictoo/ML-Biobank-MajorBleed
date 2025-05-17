@@ -140,7 +140,7 @@ Using Shapley values, we examined the features driving model decisions. While so
 
 - **Clusters:** Our unsupervised clustering approach effectively distinguished two groups characterized by distinct health profiles.
   
-- **Predictive Capability**: Both machine learning models demonstrated superior predictive performance over the ORBIT-AF scoring system. Notably, the Neural Network model showcased the highest AUC among the supervised algorithms. Fine-tuning the decision threshold could enhance the discriminatory ability of our model. However, it's worth noting that neither the ORBIT-AF nor our predictive model exhibited high confidence, as evident from the calibration plots. This is largely attributed to the inherent difficulty in predicting major bleeding risk. 
+- **Predictive Capability**: Both machine learning models demonstrated superior predictive performance over the ORBIT-AF scoring system. Notably, the Neural Network model showcased the highest AUC among the supervised algorithms. Fine-tuning the decision threshold could enhance the discriminatory ability of our model.
   
 - **Model Features:** Features like Proton-pump inhibitors, falls risk, and alcohol consumption, not conventionally used, showed promising potential and may warrant further investigation.
 

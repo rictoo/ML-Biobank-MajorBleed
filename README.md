@@ -104,8 +104,8 @@ Develop a risk prediction tool with superior predictive performance compared to 
 
 <div style="text-align: center;">
     <div style="display: inline-block;">
-        <img src="images/calib.png" alt="Calibration Plot" height="250"/>
         <img src="images/ROC.png" alt="Calibrated AUC Image" height="250"/>
+        <img src="images/calib.png" alt="Calibration Plot" height="250"/>
     </div>
 </div>
 
